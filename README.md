@@ -7,6 +7,7 @@
 		
 	<style>
 	.img {
+	float: right;
     transition: transform 1s ease;
 }
 	.img:hover {
@@ -16,7 +17,7 @@
 </head>
 <body>
 	<section>
-		<img src ="photo_2023-04-19_00-27-10.jpg" align ="right" width ="150" height ="150" alt ="Liza" class="img">
+		<img src ="photo_2023-04-19_00-27-10.jpg" width ="150" height ="150" alt ="Liza" class="img">
 	</section>
 	<section>
 		<h1 align ="center">Elizaveta Konstantinova</h1>
