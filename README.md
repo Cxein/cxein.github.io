@@ -6,13 +6,10 @@
 	<title>Resume</title>
 		
 	<style>
-	.img {
-    float: right;
-    border-radius: 40px;
-    transition: transform 1s ease;
-}
-	.img:hover {
-    transform: scale(1.3);
+	.rightpic {
+    	float: right; 
+	margin: 0 0 5px 5px;
+    	}
 	</style>
 </head>
 <body>
