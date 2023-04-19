@@ -37,5 +37,11 @@
 		  			<li>Adjustment of individual conditions for customer service</li>  
 		  			<li>Communication with product managers, developers and testers about common errors and user's problems</li>
 					</ul>
+		<ul>
+		    <li><strong>AO Tochka | Ekaterinburg, Sverdlovskaya obl<br>Client support | 11/2022 - 04/2023</strong>
+		</ul>
+		<ul>
+   		  <li>Fulfilling customer's requests in a friendly, courteous, and professional manner</li>
+		</ul>
 		
 	
