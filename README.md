@@ -7,22 +7,22 @@
 		<style>
 	.rightpic {
     	float: right; 
-	margin: 0 0 5px 5px;
+	margin: 0 0 0 5px;
     	}
 	</style>
 	<style>
-		img {
+	.img {
     float: right;
     border-radius: 40px;
     transition: transform 1s ease;
 }
-img:hover {
+	.img:hover {
     transform: scale(1.3);
 	</style>
 </head>
 <body>
 	<section>
-		<img src ="photo_2023-04-19_00-27-10.jpg" align ="right" width ="200" height ="200" alt ="Liza" class="rightpic" class="img">
+		<img src ="photo_2023-04-19_00-27-10.jpg" align ="right" width ="150" height ="150" alt ="Liza" class="rightpic" class="img">
 	</section>
 	<section>
 		<h1 align ="center">Elizaveta Konstantinova</h1>
