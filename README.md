@@ -7,7 +7,6 @@
 		
 	<style>
 	.img {
-    float: right;
     transition: transform 1s ease;
 }
 	.img:hover {
