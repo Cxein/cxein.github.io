@@ -30,7 +30,8 @@
 	<section>
 		<hr><h1>Work experience</h1>
 			<ul>
-		  		<li><strong>AO Tochka | Ekaterinburg, Sverdlovskaya obl<br>Product support | 11/2022 - 04/2023</strong></ul>
+		  		<li><strong>AO Tochka | Ekaterinburg, Sverdlovskaya obl<br>Product support | 11/2022 - 04/2023</strong>
+					</ul>
 		  			<ul>
    		  			<li>Helping users to solve product technical support issues</li>
 		  			<li>Adjustment of individual conditions for customer service</li>  
