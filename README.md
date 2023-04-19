@@ -41,9 +41,5 @@
 					</ul>
 		<hr><h1>Skills</h1>
 		<b>Customer service, English, SQL, Analysis Skills, HTML
-	</section>
-    
-</body>
-</index>
-</html>
+
 	
