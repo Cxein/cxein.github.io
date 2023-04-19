@@ -13,6 +13,12 @@
 	.img:hover {
     transform: scale(1.3);
 }
+ 	.btn {
+	 min-width: 70px;
+	 display:inline-block;
+	 line-height:26px;
+	 text-align: center;
+	}
 	</style>
 </head>
 <body>
@@ -26,8 +32,8 @@
 	</section>
 	<section>
 		<hr><h1>Contacts</h1>
-		<button><a href="https://t.me/liehakko">Telegram</a></button> 
-		<button><a href="mailto:elizabeth.konstantinova99@gmail.com">Email</a></button><br><br>
+		<button class =btn><a href="https://t.me/liehakko">Telegram</a></button> 
+		<button class =btn><a href="mailto:elizabeth.konstantinova99@gmail.com">Email</a></button><br><br>
 		My phone number<br>
 		+79022666948
 	</section>
