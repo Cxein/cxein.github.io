@@ -14,7 +14,7 @@
     transform: scale(1.3);
 }
  	.btn {
-	 width: 70px;
+	 width: 100px;
 	 border-radius: 6px;
 	 display: inline-block;
 	 line-height: 26px;
