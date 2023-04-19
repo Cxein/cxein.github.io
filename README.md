@@ -14,9 +14,10 @@
     transform: scale(1.3);
 }
  	.btn {
-	 min-width: 70px;
-	 display:inline-block;
-	 line-height:26px;
+	 width: 70px;
+	 border-radius: 6px;
+	 display: inline-block;
+	 line-height: 26px;
 	 text-align: center;
 	}
 	</style>
