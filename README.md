@@ -39,5 +39,11 @@
 					<ul>
    		  			<li>Fulfilling customer's requests in a friendly, courteous, and professional manner</li>
 					</ul>
-		
+		<hr><h1>Skills</h1>
+		<b>Customer service, English, SQL, Analysis Skills, HTML
+	</section>
+    
+</body>
+</index>
+</html>
 	
