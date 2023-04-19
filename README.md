@@ -12,6 +12,13 @@
 	</style>
 </head>
 <body>
+img {
+    float: right;
+    border-radius: 40px;
+    transition: transform 1s ease;
+}
+img:hover {
+    transform: scale(1.3);
 	<section>
 		<img src ="photo_2023-04-19_00-27-10.jpg" align ="right" width ="200" height ="200" alt ="Liza" class="rightpic">
 	</section>
