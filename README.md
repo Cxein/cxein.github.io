@@ -7,7 +7,7 @@
 		<style>
 	.rightpic {
     	float: right; 
-	margin: 0 0 0 5px;
+	margin: 0 0 0 0;
     	}
 	</style>
 	<style>
