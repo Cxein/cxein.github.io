@@ -37,4 +37,4 @@
 		  			<li>Communication with product managers, developers and testers about common errors and user's problems</li>
 					</ul>
 		
-	</section>
+	
