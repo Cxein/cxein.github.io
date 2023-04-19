@@ -27,15 +27,18 @@
 	 display: inline-block;
 	 line-height: 26px;
 	 text-align: center;
-	}
+}
+	body {
+	font-family: Helvetica, Sans-serif;
+}
 	</style>
 </head>
 <body>
 	<section>
-		<img src ="photo_2023-04-19_00-27-10.jpg" width ="80" height ="80" alt ="Liza" class="img">
+		<img src ="photo_2023-04-19_00-27-10.jpg" width ="150" height ="150" alt ="Liza" class="img">
 	</section>
 	<section>
-		<header>Elizaveta Konstantinova</header>
+		<header><h1>Elizaveta Konstantinova</h1></header>
 		<h1>Summary</h1>
 			<hr><p><BASEFONT><font size="3">Hi! My name is Elizaveta and I am 23 years old. Currently I work in product support in the banking sector.<br>I am responsible and attentive, also I am good at multitasking and I have a big experience of working in a team.</font></BASEFONT></p>
 	</section>
