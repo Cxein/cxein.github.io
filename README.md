@@ -6,8 +6,7 @@
 	<title>Resume</title>
 		<style>
 	.rightpic {
-    	float: right; 
-	margin: 0 0 0 0;
+    	float: right;
     	}
 	</style>
 	<style>
