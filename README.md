@@ -36,5 +36,5 @@
 		  			<li>Adjustment of individual conditions for customer service</li>  
 		  			<li>Communication with product managers, developers and testers about common errors and user's problems</li>
 					</ul>
-			</ul>
+			
 	</section>
