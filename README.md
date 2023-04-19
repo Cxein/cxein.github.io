@@ -6,11 +6,11 @@
 	<title>Resume</title>
 		
 	<style>
-	.summary img {
+	.img {
     float: right;
     transition: transform 1s ease;
 }
-.summary img:hover {
+	.img:hover {
     transform: scale(1.3);
 }
 	</style>
