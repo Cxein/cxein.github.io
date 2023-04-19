@@ -4,11 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, intial-scale=1.0">
 	<title>Resume</title>
-		<style>
-	.rightpic {
-    	float: right;
-    	}
-	</style>
+		
 	<style>
 	.img {
     float: right;
@@ -21,7 +17,7 @@
 </head>
 <body>
 	<section>
-		<img src ="photo_2023-04-19_00-27-10.jpg" align ="right" width ="150" height ="150" alt ="Liza" class="rightpic" class="img">
+		<img src ="photo_2023-04-19_00-27-10.jpg" align ="right" width ="150" height ="150" alt ="Liza" class="img">
 	</section>
 	<section>
 		<h1 align ="center">Elizaveta Konstantinova</h1>
