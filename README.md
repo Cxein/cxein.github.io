@@ -8,8 +8,6 @@
 	<style>
 	header {
     background-color: #B7E1E4;
-    padding-top: 2px;
-    padding-bottom: 2px;
     text-align: center;
     position: fixed;
     top: 0;
