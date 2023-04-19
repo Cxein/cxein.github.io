@@ -6,6 +6,15 @@
 	<title>Resume</title>
 		
 	<style>
+	header {
+    background-color: #B7E1E4;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
 	.img {
 	float: right;
     transition: transform 1s ease;
@@ -24,10 +33,10 @@
 </head>
 <body>
 	<section>
-		<img src ="photo_2023-04-19_00-27-10.jpg" width ="150" height ="150" alt ="Liza" class="img">
+		<img src ="photo_2023-04-19_00-27-10.jpg" width ="80" height ="80" alt ="Liza" class="img">
 	</section>
 	<section>
-		<h1 align ="center">Elizaveta Konstantinova</h1>
+		<header>Elizaveta Konstantinova</header>
 		<h1>Summary</h1>
 			<hr><p><BASEFONT><font size="3">Hi! My name is Elizaveta and I am 23 years old. Currently I work in product support in the banking sector.<br>I am responsible and attentive, also I am good at multitasking and I have a big experience of working in a team.</font></BASEFONT></p>
 	</section>
