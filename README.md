@@ -13,7 +13,7 @@
 </head>
 <body>
 	<section>
-		<img src ="C:\Users\OO-0298\Desktop\photo_2023-04-19_00-27-10.jpg" align ="right" width ="200" height ="200" alt ="Liza" class="rightpic">
+		<img src ="photo_2023-04-19_00-27-10.jpg" align ="right" width ="200" height ="200" alt ="Liza" class="rightpic">
 	</section>
 	<section>
 		<h1 align ="center">Elizaveta Konstantinova</h1>
