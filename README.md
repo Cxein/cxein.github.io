@@ -13,6 +13,7 @@
     top: 0;
     left: 0;
     width: 100%;
+}
 	.img {
 	float: right;
     transition: transform 1s ease;
