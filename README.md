@@ -51,7 +51,7 @@
 	</section>
 	<section>
 		<hr><h1>Work experience</h1>
-			<strong>AO Tochka | Ekaterinburg, Sverdlovskaya obl<br>Product support | 11/2022 - present </strong>
+			<strong>AO Tochka | Ekaterinburg, Sverdlovskaya obl<br>Product support | 11/2022 - currently working </strong>
 		  			<ul>
    		  			<li>Helping users to solve product technical support issues</li>
 		  			<li>Adjustment of individual conditions for customer service</li>  
